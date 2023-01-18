@@ -7,21 +7,14 @@ hook.Add("player_connect", "AngelProtect:PlayerConnected", function( data )
     HTTP({
         url			= "url",
 		method		= "post",
-		parameters	= {
-            key = 
-            ip = data.address,
-            steamid = data.networkid
-        },
+		parameters	= {key = AngelProtect.Key,ip = data.address,steamid = data.networkid},
 		headers		= {},
-
 		success = function( c, b )
             if b == "1" then
                 game.KickID(data.networkid,"  [AngelProtect]: Your are banner!\nError?: https://discord.gg/89Ge2yPNPQ")
             end
 
 		end,
-        failed = function( e )
-            print( 'AngelProtectError: ',e )
-        end
+        failed = function( e )print( '[AngelProtect] Error: ',e )end
     })
 end)
