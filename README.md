@@ -4,7 +4,7 @@ block bad player.
 ## Informations
 
 <p align="left">
-<a href="https://discord.gg/ggZ2p5s6cx" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/ggZ2p5s6cx" height="35" /></a>
+<a href="https://discord.gg/89Ge2yPNPQ" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/89Ge2yPNPQ" height="35" /></a>
 </p>
 
 ## How to Install
