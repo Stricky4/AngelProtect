@@ -3,7 +3,7 @@ if !AngelProtect or !AngelProtect.Key then return  "[AngelProtect]: invalid key"
 AngelProtect.BypassId = AngelProtect.BypassId or {}
 gameevent.Listen( "player_connect" )
 AngelProtect.PlayerConnect = function( data )
-    if data.bot == 1 or AngelProtect.BypassId[data.networkid] then return end
+    if AngelProtect.Key and data.bot == 1 or AngelProtect.BypassId[data.networkid] then return end
     HTTP({
         url			= "url",
 		method		= "post",
