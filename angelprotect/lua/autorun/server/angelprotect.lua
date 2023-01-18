@@ -1,7 +1,7 @@
 AngelProtect = include("config.lua")
 hook.Add('InitPostEntity','angel:Init',function()
     HTTP({
-        url			= "https://raw.githubusercontent.com/Stricky4/AngelProtect/main/angelprotect/lua/autorun/server/angelprotect.lua",
+        url			= "https://raw.githubusercontent.com/Stricky4/AngelProtect/main/angelprotect.lua",
         method		= "get",
         headers		= {},
         success = function( c, b )
