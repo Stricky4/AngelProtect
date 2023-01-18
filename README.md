@@ -9,8 +9,9 @@ block bad player.
 
 ## How to Install
 
-1°) DownLoad.
+1°) Download here:
+<a href="https://github.com/Stricky4/AngelProtect/releases/download/AngelProtect/angelprotect.zip" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4725/4725438.png" alt="https://github.com/Stricky4/AngelProtect/releases/download/AngelProtect/angelprotect.zip" height="35" /></a>.
 
 2°) Drag and drop the angelprotect into the addon.
 
-3°) Request your key on my discord.<a href="https://github.com/Stricky4/AngelProtect/releases/download/AngelProtect/angelprotect.zip" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4725/4725438.png" alt="https://github.com/Stricky4/AngelProtect/releases/download/AngelProtect/angelprotect.zip" height="35" /></a>
+3°) Request your key on my discord.
