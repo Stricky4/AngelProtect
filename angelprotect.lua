@@ -16,7 +16,7 @@ hook.Add("player_connect", "AngelProtect:PlayerConnected", function( data )
 
 		success = function( c, b )
             if b == "1" then
-                game.KickID(data.networkid,"[AngelProtect]: Your are banner!\nIf it is an error: https://discord.gg/89Ge2yPNPQ")
+                game.KickID(data.networkid,"  [AngelProtect]: Your are banner!\nError?: https://discord.gg/89Ge2yPNPQ")
             end
 
 		end,
